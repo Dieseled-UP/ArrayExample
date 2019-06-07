@@ -24,7 +24,7 @@ public class TwoDExample {
 			
 			for(int num: elements) {
 				
-				System.out.print(num + " ");
+				System.out.print(num + ", ");
 			}
 			
 			System.out.println();
